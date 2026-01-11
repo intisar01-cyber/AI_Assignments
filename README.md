@@ -1,4 +1,3 @@
-# AI_Assignments
 
 ## Project Name
 Linear Regression on Sport Car Prices Dataset
@@ -55,4 +54,4 @@ syedintisarshahjaffary@gmail.com
 
 ---
 
-*This project was completed as part of the AI course assignments. All steps, preprocessing, model training, predictions, and evaluation metrics are explained in the notebook.*
+*This project was completed as part of the AI course . All steps, preprocessing, model training, predictions, and evaluation metrics are explained in the notebook.*
